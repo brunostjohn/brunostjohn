@@ -11,7 +11,8 @@ brunost.john:computer science student at university college cork:cat lover::/hom
 - Currently working on deeper reverse engineering of a USB protocol, writing an ElectronJS desktop app, a dockerised RESTful API, and a bunch of other cool stuff.
 - Currently trying to figure out Vue.js and React.
 - Looking to collaborate on my [iCUE replacement for Corsair's LCD-equipped CPU coolers](https://github.com/brunostjohn/zefirs-flashy-cooler).
-- Ask me about self-hosting. I believe we all should **own** our data
+- Ask me about self-hosting. I believe we all should **own** our data.
+- Fun fact: I use Debian because it *just works*.
 - You can reach me at [me@brunostjohn.com](me@brunostjohn.com).
 - More info about my projects and other cool stuff I might be working on is available at [brunostjohn.com](brunostjohn.com).
 
