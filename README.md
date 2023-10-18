@@ -6,14 +6,10 @@ brunost.john:computer science student at university college cork:cat lover::/hom
 
 `bruno@catpaws:~$ less aboutme.md`
 
-- Every day I thank the whole of creation for Docker Compose.
-- I'm a software engineer, sysadmin, and FLAC music lover.
-- Currently working on some cool Rust stuff, a little bit of Electron stuff here and there, and some embedded programming.
-- Learning to properly use SvelteKit.
-- Looking to collaborate on my [iCUE replacement for Corsair's LCD-equipped CPU coolers](https://github.com/brunostjohn/zefirs-flashy-cooler).
-- Ask me about self-hosting. I believe we all should **own** our data.
-- Fun fact: I use Debian because it *just works*.
-- You can reach me at [me@brunostjohn.com](me@brunostjohn.com).
+- Software Engineering Consultant for HYTE
+- Founder @ Mlemo
+- SvelteKit enjoyer
+- I will talk to you about memory safety if needed (right after using terrible unsafe code)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunostjohn" alt="brunostjohn" /></a> </p>
 
